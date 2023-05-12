@@ -1,5 +1,5 @@
 # bazu
-This repository is an addition that was made to the bazu project.
+This repository is an addition that was made to the bazu project. https://github.com/noshluk2/ROS2-Ultimate-learners-Repository/tree/main
 
 It consists of a robotic arm visualized in rviz and simulated in a gazebo.
 Contains 2 plugins:
